@@ -1,0 +1,30 @@
+.child{
+    width: 80px;
+    margin-left: 70px;
+}
+
+.header{
+    width: 100vw;
+    background: #bd031a;
+    color:#ffffff;
+    display:flex;
+    border: 2px solid black
+}
+
+.header-content{
+    height: 75px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-logo{
+    height: 30px;
+    width: 100px;
+}
+
+.user-name{
+    align-items: center;
+    margin-left: 1100px;
+    margin-top: 20px;
+}
